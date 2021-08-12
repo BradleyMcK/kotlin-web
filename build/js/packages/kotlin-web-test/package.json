@@ -1,0 +1,36 @@
+{
+  "name": "kotlin-web-test",
+  "version": "1.0.0-SNAPSHOT",
+  "main": "kotlin/kotlin-web-test.js",
+  "devDependencies": {
+    "karma": "6.3.2",
+    "karma-mocha": "2.0.1",
+    "mocha": "8.3.2",
+    "karma-webpack": "5.0.0",
+    "webpack": "5.35.0",
+    "webpack-cli": "4.6.0",
+    "format-util": "1.0.5",
+    "source-map-loader": "2.0.1",
+    "karma-sourcemap-loader": "0.3.8",
+    "karma-chrome-launcher": "3.1.0",
+    "css-loader": "5.2.4",
+    "style-loader": "2.0.0"
+  },
+  "dependencies": {
+    "kotlin-web": "1.0.0-SNAPSHOT",
+    "kotlin": "file:C:\\Users\\bradl\\IdeaProjects\\kotlin-web\\build\\js\\packages_imported\\kotlin\\1.5.10",
+    "kotlin-wrappers-kotlin-react-jsLegacy": "file:C:\\Users\\bradl\\IdeaProjects\\kotlin-web\\build\\js\\packages_imported\\kotlin-wrappers-kotlin-react-jsLegacy\\1.0.0-SNAPSHOT",
+    "kotlin-wrappers-kotlin-extensions-jsLegacy": "file:C:\\Users\\bradl\\IdeaProjects\\kotlin-web\\build\\js\\packages_imported\\kotlin-wrappers-kotlin-extensions-jsLegacy\\1.0.1-pre.148-kotlin-1.4.30",
+    "kotlinx-coroutines-core": "file:C:\\Users\\bradl\\IdeaProjects\\kotlin-web\\build\\js\\packages_imported\\kotlinx-coroutines-core\\1.4.2",
+    "kotlinx-atomicfu": "file:C:\\Users\\bradl\\IdeaProjects\\kotlin-web\\build\\js\\packages_imported\\kotlinx-atomicfu\\0.14.4",
+    "kotlin-wrappers-kotlin-react-dom-jsLegacy": "file:C:\\Users\\bradl\\IdeaProjects\\kotlin-web\\build\\js\\packages_imported\\kotlin-wrappers-kotlin-react-dom-jsLegacy\\1.0.0-SNAPSHOT",
+    "kotlinx-html-js": "file:C:\\Users\\bradl\\IdeaProjects\\kotlin-web\\build\\js\\packages_imported\\kotlinx-html-js\\0.7.2",
+    "kotlin-wrappers-kotlin-styled-jsLegacy": "file:C:\\Users\\bradl\\IdeaProjects\\kotlin-web\\build\\js\\packages_imported\\kotlin-wrappers-kotlin-styled-jsLegacy\\1.0.0-SNAPSHOT",
+    "kotlin-css": "file:C:\\Users\\bradl\\IdeaProjects\\kotlin-web\\build\\js\\packages_imported\\kotlin-css\\1.0.0-pre.148-kotlin-1.4.30",
+    "kotlin-test": "file:C:\\Users\\bradl\\IdeaProjects\\kotlin-web\\build\\js\\packages_imported\\kotlin-test\\1.5.10",
+    "kotlin-test-js-runner": "file:C:\\Users\\bradl\\IdeaProjects\\kotlin-web\\build\\js\\packages_imported\\kotlin-test-js-runner\\1.5.10"
+  },
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}

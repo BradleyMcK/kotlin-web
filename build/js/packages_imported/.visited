@@ -1,0 +1,52 @@
+{
+  "version": "9",
+  "items": {
+    "1bf77f7ef45885b86fa4f1a02ed10053": {
+      "src": "C:\\Users\\bradl\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-stdlib-js\\1.5.10\\2cab0f51a869235a20bdafb360b698b9083fc61\\kotlin-stdlib-js-1.5.10.jar",
+      "target": "kotlin\\1.5.10"
+    },
+    "20f4a950760cebba1fc6f9bf1249ddd9": {
+      "src": "C:\\Users\\bradl\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-stdlib-common\\1.5.10\\6b84d926e28493be69daf673e40076f89492ef7\\kotlin-stdlib-common-1.5.10.jar"
+    },
+    "1374fd6f8dc64148f69808afaadc3e4a": {
+      "src": "C:\\Users\\bradl\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains\\kotlin-react\\17.0.1-pre.148-kotlin-1.4.30\\30021b41121dde232f256b99f51f9400c7450231\\kotlin-react-17.0.1-pre.148-kotlin-1.4.30.jar",
+      "target": "kotlin-wrappers-kotlin-react-jsLegacy\\1.0.0-SNAPSHOT"
+    },
+    "7c23fcee9b96cc178b0f3e4f20614d44": {
+      "src": "C:\\Users\\bradl\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains\\kotlin-extensions\\1.0.1-pre.148-kotlin-1.4.30\\88c047bb215c3489a9dee35991438d78a7d59e7d\\kotlin-extensions-1.0.1-pre.148-kotlin-1.4.30.jar",
+      "target": "kotlin-wrappers-kotlin-extensions-jsLegacy\\1.0.1-pre.148-kotlin-1.4.30"
+    },
+    "16a1c23967b3a0781ab5d42281c72be5": {
+      "src": "C:\\Users\\bradl\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlinx\\kotlinx-coroutines-core-js\\1.4.2\\13cae16ca0d884b413a04daa062e4de337f99e58\\kotlinx-coroutines-core-jslegacy-1.4.2.jar",
+      "target": "kotlinx-coroutines-core\\1.4.2"
+    },
+    "ca3b3f18d8a8a3654b100c320f8f8c6d": {
+      "src": "C:\\Users\\bradl\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlinx\\atomicfu-js\\0.14.4\\463b650e391eabd0c082969779b5243e05bd7d7\\atomicfu-jslegacy-0.14.4.jar",
+      "target": "kotlinx-atomicfu\\0.14.4"
+    },
+    "2f6cd9f9f1544676997ecfa10553a3e5": {
+      "src": "C:\\Users\\bradl\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains\\kotlin-react-dom\\17.0.1-pre.148-kotlin-1.4.30\\628c773c9e57c46cd926425de70ae873199634d9\\kotlin-react-dom-17.0.1-pre.148-kotlin-1.4.30.jar",
+      "target": "kotlin-wrappers-kotlin-react-dom-jsLegacy\\1.0.0-SNAPSHOT"
+    },
+    "97d71e7777d60ce52b440d742431cb6f": {
+      "src": "C:\\Users\\bradl\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlinx\\kotlinx-html-js\\0.7.2\\baf7e494e549776d0ae3e0ee225804a513f5dc26\\kotlinx-html-jslegacy-0.7.2.jar",
+      "target": "kotlinx-html-js\\0.7.2"
+    },
+    "1478587582d1a3fb4afd63ebcbf7bba6": {
+      "src": "C:\\Users\\bradl\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains\\kotlin-styled\\5.2.1-pre.148-kotlin-1.4.30\\343c9cace84d5dd81a85c45196634f1c5d626f64\\kotlin-styled-5.2.1-pre.148-kotlin-1.4.30.jar",
+      "target": "kotlin-wrappers-kotlin-styled-jsLegacy\\1.0.0-SNAPSHOT"
+    },
+    "184fe9f97257a0a76ebf4b672f4620ed": {
+      "src": "C:\\Users\\bradl\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains\\kotlin-css-js\\1.0.0-pre.148-kotlin-1.4.30\\77584e95a7a9c60f77c737c495469b94a28c386c\\kotlin-css-jslegacy-1.0-SNAPSHOT.jar",
+      "target": "kotlin-css\\1.0.0-pre.148-kotlin-1.4.30"
+    },
+    "337ff817e087aded273dfc9ba494baf4": {
+      "src": "C:\\Users\\bradl\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-test-js-runner\\1.5.10\\20ef83e15f8c2cde090f3bfd8c1eba72947f7ab8\\kotlin-test-js-runner-1.5.10.jar",
+      "target": "kotlin-test-js-runner\\1.5.10"
+    },
+    "1573a548ffa9f67e4feb0f2e89e1350e": {
+      "src": "C:\\Users\\bradl\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-test-js\\1.5.10\\a81b0896d15768898359a9d7129096bbb6f36c78\\kotlin-test-js-1.5.10.jar",
+      "target": "kotlin-test\\1.5.10"
+    }
+  }
+}
